@@ -1,0 +1,24 @@
+I"�<h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
+
+<p><a href="https://escribir3.github.io/">https://escribir3.github.io/</a></p>
+
+<h2 id="一网站目录结构">一、网站目录结构</h2>
+<p><img src="../images/tree.png" alt="Tree" /></p>
+
+<p>##二、网站截图</p>
+<ul>
+  <li><img src="../images/home.png" alt="Home" /></li>
+  <li><img src="../images/blog.png" alt="Blog" /></li>
+  <li><img src="../images/markdown.png" alt="markdown练习" />
+<img src="../images/Kiwifruit.png" alt="帖子" /></li>
+  <li><img src="../images/Staff.png" alt="Staff" /></li>
+  <li><img src="../images/Author.png" alt="Author" /></li>
+  <li><img src="../images/about.png" alt="About" /></li>
+</ul>
+
+<p>##三、实验过程
+多次实验，根据教程做出静态网站，放入自己的帖子，将网站源代码上传到github上</p>
+
+<p>##四、总结
+实验中最大的问题是不会将网站的源代码上传到github上，我先是上网查找资料，在自己对过程有大致了解后，再想同学请教证实，最后成功解决了问题。</p>
+:ET
