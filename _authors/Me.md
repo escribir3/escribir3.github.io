@@ -1,6 +1,6 @@
 ---
-short_name: Wang
-name: Wang Lei
+short_name: M
+name: Me
 position: Learner
 ---
 A student.
